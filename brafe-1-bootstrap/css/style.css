@@ -28,7 +28,8 @@ img {
 
 .menu {
 	background: #252525;
-	padding: 15px 0;
+	padding-top: 15px;
+	padding-bottom: 15px;
 }
 
 .menu-nav a {
@@ -95,7 +96,8 @@ img {
 
 @media(max-width: 770px) {
 	.intro {
-		padding: 60px 0;
+		padding-top: 60px;
+		padding-bottom: 60px;
 	}
 }
 
