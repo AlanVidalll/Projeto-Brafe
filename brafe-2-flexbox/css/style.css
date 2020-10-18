@@ -94,6 +94,12 @@ body {
 	margin-top: 5px;
 }
 
+@media(max-width: 739px){
+	.filtro{
+		display: none;
+	}
+}
+
 .sabor {
 	overflow: hidden;
 }
