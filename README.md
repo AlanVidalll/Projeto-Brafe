@@ -8,14 +8,14 @@
 
 
 <p align="center">
-   <img src="https://i.ibb.co/1b4Phck/brafe-1.jpg" alt="brafe-1" border="2" width="800">
+   <img src="https://i.ibb.co/1b4Phck/brafe-1.jpg" alt="brafe-1" border="0" width="800">
 </p>
 
 <p align="center">
-   <img src="https://i.ibb.co/RHcKJPv/brafe-2.jpg" alt="brafe-2" border="2" width="800">
+   <img src="https://i.ibb.co/RHcKJPv/brafe-2.jpg" alt="brafe-2" border="0" width="800">
 </p>
 
 <p align="center">
-   <img src="https://i.ibb.co/S3R6kHF/brafe-3.jpg" alt="brafe-3" border="2" width="800">
+   <img src="https://i.ibb.co/S3R6kHF/brafe-3.jpg" alt="brafe-3" border="0" width="800">
 </p>
 
