@@ -4,12 +4,11 @@
 
 ## Aplicação desenvolvida no curso de CSS Posicionamento Avançado na <https://www.origamid.com/>
 
-## Nesse curso desenvolvemos 3 layouts diferentes do Brafé utilizando CSS puro, CSS grid, FlexBox e Boostrap.
+### Nesse curso desenvolvemos 3 layouts diferentes do Brafé utilizando CSS puro, CSS grid, FlexBox e Boostrap.
 
-### Link para o site <https://bickaft.herokuapp.com/>
 
 <p align="center">
-    <img src="https://i.ibb.co/VCR464H/2020-09-30.png" alt="2020-09-21-2" border="0" width="800">
+   <img src="https://i.ibb.co/1b4Phck/brafe-1.jpg" alt="brafe-1" border="0" width="800">
 </p>
 
 <p align="center">
