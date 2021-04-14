@@ -1,25 +1,33 @@
-# Projeto-Brafé
+# Brafé
+
+## O Projeto
+
+Esse projeto foi desenvolvido com foco em estudo na diversas maneiras de se aplicar o CSS, essa aplicação foi desenvolvida com 4 formas diferentes de usar o CSS que foram elas CSS puro, CSS FlexBox , CSS Grid e Bootstrap.
+
+[clique aqui](https://alanvidalll.github.io/Projeto-Brafe/) para navegar na aplicação.
+
+## Requisitos
 
 
+* HTML
+* CSS 
+* CSS FlexBox
+* CSS Grid
+* Bootstrap
+* IDE ou Editor de Texto(Exemplo: **Visual Studio Code** [clique aqui](https://code.visualstudio.com/download) para dowload)
 
-## Aplicação desenvolvida no curso de CSS Posicionamento Avançado na <https://www.origamid.com/>
+## Instalando o Projeto
 
-### Nesse curso desenvolvemos 3 layouts diferentes do Brafé utilizando CSS puro, CSS grid, FlexBox e Boostrap.
+* Navegue até a página principal do repositório.
+* Procure pela opção 'clone'.
+* Copie a URL https.
+* Abra seu VS Code o diretório que deseja clonar e abra o termiinal.
+* Digite ```git clone``` (clonar git) e cole a URL que você copiou anteriormente.
+```
+$ git clone <URL copiada>
+```
+* Pressione Enter para criar seu clone local.
 
+## Executando o Sistema
 
-<p align="center">
-   <img src="https://i.ibb.co/1b4Phck/brafe-1.jpg" alt="brafe-1" border="0" width="800">
-</p>
-
-### ____________________________________________________________________________
-
-<p align="center">
-   <img src="https://i.ibb.co/RHcKJPv/brafe-2.jpg" alt="brafe-2" border="0" width="800">
-</p>
-
-### ____________________________________________________________________________
-
-<p align="center">
-   <img src="https://i.ibb.co/S3R6kHF/brafe-3.jpg" alt="brafe-3" border="0" width="800">
-</p>
-
+* No seu VS Code localize o arquivo index.html clique com o botão direito e abra com opção Live Server, a aplicação irá abrir no browser automaticamente.
